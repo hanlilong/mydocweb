@@ -1,0 +1,10 @@
+# 依赖包（千万别传）
+node_modules/
+
+# VitePress 编译生成的静态文件（Netlify 会自己生成，不用传）
+.vitepress/dist/
+.vitepress/cache/
+
+# 系统或编辑器生成的文件
+.DS_Store
+Thumbs.db

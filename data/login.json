@@ -1,9 +1,0 @@
-{
-  "code": 0,
-  "msg": "登录成功",
-  "data": {
-    "token": "abcd-1234-efgh-5678",
-    "username": "admin",
-    "name": "管理员"
-  }
-}
